@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tr9n9t25
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning JS, react, node and next
 - 📫 How to reach me: email: tr9n9t25.git@gmail.com 
 
 <!---
